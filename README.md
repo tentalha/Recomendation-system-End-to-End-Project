@@ -101,7 +101,5 @@ muhammadumer241-recomendation-system-end-to-end-project/
 ## Contributing
 Fork the repo, submit issues, or create pull requests to contribute!
 
-## License
-MIT License (see `LICENSE`).
 
 ---
